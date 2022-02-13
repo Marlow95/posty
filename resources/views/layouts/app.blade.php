@@ -22,7 +22,7 @@
                 @endif
 
                 <li>
-                    <a href="" class="p-3">Post</a>
+                    <a href="{{ route('posts') }}" class="p-3">Post</a>
                 </li>
             </ul>
             <ul class="flex items-center">
